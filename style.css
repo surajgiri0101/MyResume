@@ -8,7 +8,7 @@
 }
 .color-title{
 
-    display: inline-block;
+    display: inline;
 }
 #pixel {
     font-size: 20px;
@@ -79,8 +79,8 @@
   .imageborder{
     border: solid white;
     margin-left: 10px;
-    width: 50%;
-    height: 50%;
+    width: 100px;
+    height: 100px;
 
   }
 
