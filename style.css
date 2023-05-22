@@ -4,8 +4,11 @@
 .color-title{
     color: brown;
     background-color:#4580BA
+    ;
+}
+.color-title{
 
-;
+    display: inline-block;
 }
 #pixel {
     font-size: 20px;
@@ -63,4 +66,25 @@
   #align {
     text-align: right;
   }
+  #div{
+    height: 200px;
+    width: 200px;
+  }
+
+  #first{
+    margin-left: 0;
+    padding: 10px;
+  }
+
+  .imageborder{
+    border: solid white;
+    margin-left: 10px;
+    width: 50%;
+    height: 50%;
+
+  }
+
+
+
+  
   
